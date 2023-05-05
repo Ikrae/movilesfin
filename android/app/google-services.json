@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "246405308386",
+    "project_id": "bibliobook-50628",
+    "storage_bucket": "bibliobook-50628.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246405308386:android:4fce4bf01bf4b63bfaa3bb",
+        "android_client_info": {
+          "package_name": "mx.iteso.bibliobook.bibliobook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246405308386-vl1pbab8gunbuic1dc3biru875lmtqlm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mx.iteso.bibliobook.bibliobook",
+            "certificate_hash": "68a5754d1bb55538e3e514cdc33aa4af9cec1e4e"
+          }
+        },
+        {
+          "client_id": "246405308386-lcrb62rgm969v6obbp0rpsgm7ga1traf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2NKQW9FyYnzXny11ybMYQ66WHoDpavm4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246405308386-lcrb62rgm969v6obbp0rpsgm7ga1traf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "246405308386-k6hr46oa6tdqqqs72g09cgsasl3bbhfb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.iteo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
